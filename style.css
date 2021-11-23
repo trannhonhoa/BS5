@@ -1,0 +1,14 @@
+@media (min-width: 768px){
+    .new-inputs{
+        width: 50%;
+    }
+}
+#map{
+    width: 100%;
+    height: 100%;
+}
+body::before{
+    display: block;
+    content: '';
+    height: 60px;
+}
